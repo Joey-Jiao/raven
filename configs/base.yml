@@ -1,0 +1,7 @@
+job:
+  name: pretrain_qwen3b
+  output_dir: ./outputs
+
+checkpoint:
+  enabled: true
+  interval: 1000
